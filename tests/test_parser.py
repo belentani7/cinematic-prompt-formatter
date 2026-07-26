@@ -217,8 +217,8 @@ class TestParseMood:
 
     def test_parse_romantic(self):
         result = parse_mood("romantic")
-        assert "soft" in result["atmosphere"]
-        assert result["contrast"] == "low to medium"
+        assert "love" in result["atmosphere"]
+        assert result["contrast"] == "medium"
 
     def test_parse_horror(self):
         result = parse_mood("horror")

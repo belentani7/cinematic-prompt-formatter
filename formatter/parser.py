@@ -580,9 +580,9 @@ def parse_mood(term: str) -> Dict[str, str]:
             "contrast": "high"
         },
         "romantic": {
-            "atmosphere": "soft, emotional, intimate",
-            "color_palette": "warm pastels, soft tones",
-            "contrast": "low to medium"
+            "atmosphere": "love, passion",
+            "color_palette": "reds, pinks, warm tones",
+            "contrast": "medium"
         },
         "horror": {
             "atmosphere": "dark, unsettling, tense",
