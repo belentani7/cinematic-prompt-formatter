@@ -1,4 +1,4 @@
-# Cinematic Prompt Formatter
+﻿# Cinematic Prompt Formatter
 
 Translate cinematic language into optimized prompts for Stable Diffusion, Flux, and SDXL models.
 
@@ -20,7 +20,7 @@ pip install cinematic-prompt-formatter
 Or from source:
 
 ```bash
-git clone https://github.com/yourusername/cinematic-prompt-formatter.git
+git clone https://github.com/belentani7/cinematic-prompt-formatter.git
 cd cinematic-prompt-formatter
 pip install -e .
 ```
