@@ -1,0 +1,7 @@
+# Reglas Cursor -- cinematic-prompt-formatter (compacto)
+
+- Stack: Python. Cambios aditivos; NUNCA romper lo existente.
+- Fuente unica de verdad por dato; no duplicar. Docs en `docs/` en el mismo PR.
+- Sin secretos en git. Validacion de entrada + authZ por endpoint.
+- Commits convencionales. CI siempre verde.
+- Cadena documental: PRD -> SRS -> SDD -> ADR -> Plan antes de codigo.
